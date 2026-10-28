@@ -18,4 +18,4 @@ jobs:
       - name: Check website with WebCheck Action
         uses: mwakidenis/webcheck-action@v1.0.0
         with:
-          url: https://boomflix.vercel.app
+          url: https://example.com
